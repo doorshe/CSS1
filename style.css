@@ -1,0 +1,28 @@
+Body {
+	background: #ff9545;
+	font-family: Arial;
+}
+.menu{
+	background: #ff7300;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+.menu ul{
+	display: flex;
+	justify-content: space-around;
+}
+.menu li {
+	list-style: none;
+	font-variant: normal;
+}
+.site-title{
+	text-align: center;
+	color: whitesmoke;
+}
+.site-subtitle {
+	text-align: center;
+	font-style: italic;
+	color:#76766b;
+}
